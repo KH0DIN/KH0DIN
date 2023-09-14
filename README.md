@@ -1,7 +1,3 @@
-<div align="center">
-    <h1 style="border-bottom: none;">Hi, I'm Khodin</h1>
-</div>
-
 ```typescript
 let Khodin = {
     // Basic Info
