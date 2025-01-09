@@ -5,7 +5,7 @@ let Khodin = {
     timezone: "UTC+2"
 
     // Coding
-    projects: [ "Mega-Dump", "Free Roblox Plugins" ],
+    projects: [ "Uncopylocked Roblox Games Library", "Free Roblox Plugins" ],
     favoriteLanguages: [ "Lua", "C#", "Javascript" ]
 }
 ```
