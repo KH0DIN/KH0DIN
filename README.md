@@ -1,7 +1,7 @@
 <h3 align="center">
 <img src="Media/fan.gif" align="center">
 
-<img src="Media/smile.gif" align="center"> <img src="Media/logo.gif" align="center" width="700"> <img src="Media/smile.gif" align="center">
+<img src="Media/smile.gif" align="center"> <img src="Media/hi.gif" align="center"> <img src="Media/smile.gif" align="center">
 
 <h3 align="center">
 <img src="Media/Earth.gif" align="center" width="300"/>
